@@ -86,12 +86,6 @@
 
 # ⚡ Profile Summary
 
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidislam-del&show_icons=true&locale=en" alt="jahidislam-del" /></p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahidislam-del&theme=github_dark"/>
-
-</p>
 
 <p align="center">
 
