@@ -42,7 +42,7 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- [Portfolio Website](https://github.com/jahidislam-del/portfolio) – Responsive personal portfolio built with React & TailwindCSS  
+- [Portfolio Website]([https://github.com/jahidislam-del/portfolio](https://github.com/jahidislam-del/portfolio)) – Responsive personal portfolio built with React & TailwindCSS  
 - [Todo App](https://github.com/jahidislam-del/todo-app) – Full-stack app with Node.js and MongoDB  
 - [ICPC Practice Tracker](https://github.com/jahidislam-del/icpc-tracker) – Discord bot integration for coding practice  
 
