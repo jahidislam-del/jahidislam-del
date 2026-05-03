@@ -40,9 +40,9 @@
 <a href="https://www.linkedin.com/in/md-jahidul01/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-<a href="https://codeforces.com/profile/md_jahidul">
-<img src="https://skillicons.dev/icons?i=Codeforces" width="40"/>
-</a>
+<!-- <a href="https://discord.com/profile/jahidul_001">
+<img src="https://skillicons.dev/icons?i=discord" width="40"/>
+</a> -->
 
 <!-- <a href="https://facebook.com/">
 <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
@@ -58,9 +58,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,git,tailwind" />
 
-<!-- <img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,express" /> -->
+<img src="https://skillicons.dev/icons?i=react,django" /> 
 
-<img src="https://skillicons.dev/icons?i=python,javascript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgresql," />
 
 <!-- <img src="https://skillicons.dev/icons?i=reactnative" /> -->
 
